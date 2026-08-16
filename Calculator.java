@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Calculator {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Welcome to merge practice Calculator!");
+        System.out.println("Welcome from main brach!");
         System.out.println("Enter the first number:");
         double num1=sc.nextDouble();
         System.out.println("Enter the second number:");
