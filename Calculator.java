@@ -2,7 +2,11 @@ import java.util.Scanner;
 public class Calculator {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
+<<<<<<< HEAD
         System.out.println("Welcome from main brach!");
+=======
+        System.out.println("Welcome from conflict branch!");
+>>>>>>> conflict-demo
         System.out.println("Enter the first number:");
         double num1=sc.nextDouble();
         System.out.println("Enter the second number:");
