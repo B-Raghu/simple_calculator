@@ -4,7 +4,6 @@ public class Calculator {
         Scanner sc=new Scanner(System.in);
         System.out.println("Welcome from main brach!");
         System.out.println("Welcome from conflict branch!");
-        System.out.println("Revert Practice");
         System.out.println("Enter the first number:");
         double num1=sc.nextDouble();
         System.out.println("Enter the second number:");
